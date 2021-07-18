@@ -3,7 +3,7 @@ Job :
     - location
     - job type
     - description
-    - published at
+    - publi shed at
     - Vacancy
     - salary
     - category
